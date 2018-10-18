@@ -1,10 +1,14 @@
 body {
     background-color: rgb(250, 245, 245);
-
     padding-top: 2em;
     width: auto;
     text-align: center;
     font-family: 'Noto Serif JP', sans-serif;
+}
+
+.inline-image {
+    display: inline-block;
+    vertical-align: middle;
 }
 
 #main-image {
@@ -20,7 +24,6 @@ h1 {
 }
 
 .logo {
-    vertical-align: top;
     max-width: 1em;
 }
 
