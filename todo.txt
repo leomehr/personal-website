@@ -1,0 +1,4 @@
+- footer with link to source on github
+- add link to old website
+- use http://getbem.com/naming/
+
