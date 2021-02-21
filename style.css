@@ -1,7 +1,9 @@
 body {
     background-color: rgb(250, 245, 245);
     padding-top: 5%;
-    width: auto;
+    max-width: 500px;
+    margin: auto;
+    padding: 15px;
     text-align: center;
     font-family: 'Noto Serif JP', sans-serif;
 }
@@ -24,17 +26,13 @@ h1 {
     font-size: 40px;
 }
 
+p {
+    margin-top: 1.5em;
+}
+
 .logo {
-    max-width: 1em;
-}
-
-.footer-logo {
     vertical-align: top;
-    max-width: 1.5em;
-}
-
-.footer-logo:hover, .logo:hover {
-    transform: scale(1.3, 1.3);
+    width: 1.5em;
 }
 
 .no-underline {
